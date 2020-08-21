@@ -1,0 +1,13 @@
+{
+  "name": "mvc-node",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "~2.6.1",
+    "esm": "^3.2.25",
+    "express": "~4.16.1"
+  }
+}
