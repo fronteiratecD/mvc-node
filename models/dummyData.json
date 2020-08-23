@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Guilherme",
+    "text": "Eu sou o"
+  },
+
+  {
+    "id": 2,
+    "name": "João",
+    "text": "Eu gosto de"
+  },
+  {
+    "id": 3,
+    "name": "Lara",
+    "text": "Eu não gosto de"
+  },
+  {
+    "id": 4,
+    "name": "Mariana",
+    "text": "Batata"
+  }
+]
